@@ -17,10 +17,10 @@ import (
 	"time"
 
 	qrcode "github.com/skip2/go-qrcode"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/config"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/db"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/panel"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/payment"
+	"github.com/fernandairfan/vpnbot/internal/config"
+	"github.com/fernandairfan/vpnbot/internal/db"
+	"github.com/fernandairfan/vpnbot/internal/panel"
+	"github.com/fernandairfan/vpnbot/internal/payment"
 )
 
 type Bot struct {
