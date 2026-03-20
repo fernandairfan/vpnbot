@@ -1,0 +1,13 @@
+[Unit]
+Description=FANSSTOREVPN Go Bot
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/opt/fansstorevpn-go-final
+ExecStart=/opt/fansstorevpn-go-final/fansstorevpn
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

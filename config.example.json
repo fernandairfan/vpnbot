@@ -1,0 +1,16 @@
+{
+  "bot_token": "ISI_BOT_TOKEN_TELEGRAM",
+  "admin_ids": [123456789],
+  "nama_store": "FANSSTOREVPN",
+  "group_id": -1001234567890,
+  "port": 6969,
+  "data_qris": "ISI_DATA_QRIS_STATIS",
+  "payment": {
+    "base_url": "https://gopay.autoftbot.com/api/backend",
+    "merchant_id": "G340088710",
+    "token": "ISI_TOKEN_AUTOFT"
+  },
+  "poll_interval_seconds": 15,
+  "deposit_expiry_minutes": 5,
+  "database_path": "fansstorevpn.db"
+}
