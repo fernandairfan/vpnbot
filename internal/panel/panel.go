@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourgithub/fansstorevpn-go-final/internal/db"
+	"github.com/fernandairfan/vpnbot/internal/db"
 )
 
 type Client struct {
