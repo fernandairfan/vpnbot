@@ -19,7 +19,7 @@ Versi Go siap pakai untuk:
 ## Instalasi cepat di VPS
 ```bash
 git clone https://github.com/fernandairfan/vpnbot.git /opt/vpnbot
-cd /opt/fansstorevpn-go-final
+cd /opt/vpnbot
 cp config.example.json config.json
 nano config.json
 /usr/local/bin/go mod tidy
