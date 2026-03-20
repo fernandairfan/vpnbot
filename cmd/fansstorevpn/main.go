@@ -6,9 +6,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/yourgithub/fansstorevpn-go-final/internal/config"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/db"
-	"github.com/yourgithub/fansstorevpn-go-final/internal/telegram"
+	"github.com/fernandairfan/vpnbot/internal/config"
+	"github.com/fernandairfan/vpnbot/internal/db"
+	"github.com/fernandairfan/vpnbot/internal/telegram"
 )
 
 func main() {
