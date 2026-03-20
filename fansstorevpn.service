@@ -4,8 +4,8 @@ After=network.target
 
 [Service]
 User=root
-WorkingDirectory=/opt/fansstorevpn-go-final
-ExecStart=/opt/fansstorevpn-go-final/fansstorevpn
+WorkingDirectory=/opt/vpnbot
+ExecStart=/opt/vpnbot/fansstorevpn
 Restart=always
 RestartSec=5
 
