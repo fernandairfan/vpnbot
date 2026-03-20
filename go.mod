@@ -1,4 +1,4 @@
-module github.com/yourgithub/fansstorevpn-go-final
+module github.com/fernandairfan/vpnbot
 
 go 1.23.0
 
